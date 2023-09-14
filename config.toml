@@ -1,0 +1,10 @@
+baseURL = 'http://gpederzani.github.io/'
+languageCode = 'en-us'
+title = 'Giulia Pederzani'
+theme = "anatole"
+enableEmoji = true
+
+[params]
+title = "Giulia Pederzani"
+author = "Giulia Pederzani"
+description = "Postdoctoral researcher on cardiovascular modelling and cerebral perfusion"
