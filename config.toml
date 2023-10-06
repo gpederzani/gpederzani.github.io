@@ -9,3 +9,17 @@ title = "Giulia Pederzani"
 author = "Giulia Pederzani"
 description = "Postdoctoral researcher on cardiovascular modelling and cerebral perfusion"
 profilePicture = "profile_pic.jpg"
+
+[menu]
+
+    [[menu.main]]
+    name = "Home"
+    identifier = "home"
+    weight = 100
+    url = "/"
+
+    [[menu.main]]
+    name = "Publications"
+    identifier = "publications"
+    weight = 200
+    url = "/publications"
