@@ -7,5 +7,6 @@ Cheng F., Watton P.N., Pederzani G., Kurobe M., Takaoka E., Chapple C., Birder L
 
 Pederzani G., Czechowicz K., Ghorab N., Morris P.D., Gunn J.P., Narracott A.J., Hose D.R., Halliday I., **The Use of Digital Coronary Phantoms for the Validation of Arterial Geometry Reconstruction and Computation of Virtual FFR**, _Fluids_, vol. 7 issue 
 
+Haley H.A., Ghobrial M., Morris P.D., Gosling R., Williams G., Mills M.T., Newman T., Rammohan V., Pederzani G., Lawford P.V., Hose D.R., Gunn J.P., **Virtual (computed) fractional flow reserve: Future role in acute coronary syndromes**, _Frontiers in Cardiovascular Medicine_ vol. 8
 
 ...
