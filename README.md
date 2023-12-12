@@ -1,3 +1,3 @@
 # gpederzani.github.io
 #
-What happens to what I type here
+Academic website using the Anatole theme on Hugo.

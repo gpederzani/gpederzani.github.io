@@ -7,7 +7,10 @@ enableEmoji = true
 [params]
 title = "Giulia Pederzani"
 author = "Giulia Pederzani"
-description = "Postdoctoral researcher on cardiovascular modelling and cerebral perfusion"
+description = """
+Postdoctoral researcher on 
+cardiovascular modelling and cerebral perfusion
+"""
 profilePicture = "profile_pic.jpg"
 
 [menu]
