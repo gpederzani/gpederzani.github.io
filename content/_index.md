@@ -2,4 +2,7 @@ I am a postdoctoral researcher at the [Computational Science Lab](https://uva.co
 
 My main research interest is computational multi-scale modelling of the cardiovascular and cerebrovascular systems. I developed a mechanobiologically motivated model of cerebral vasospasm to help improve treatment selection. I also worked on numerical methods for medical image processing and 3D geometry reconstruction, as well as contribute to the development of a digital phantom of coronary arteries to standardise validation of computational models of coronary physiology. 
 
-I am also part of the [EDITH](https://www.edith-csa.eu/) project, a EU-funded consortium to foster the adoption of digital twins in healthcare and thus realise true personalised medicine, and the [GEMINI](https://dth-gemini.eu/) project for the development of digital twins for the personalised treatment of ischemic and haemorrhagic stroke. 
+I am also part of the [EDITH](https://www.edith-csa.eu/) project, a EU-funded consortium to foster the adoption of digital twins in healthcare and thus realise true personalised medicine, and the [GEMINI](https://dth-gemini.eu/) project for the development of digital twins for the personalised treatment of ischemic and haemorrhagic stroke.
+
+
+--- Website under construction ---
