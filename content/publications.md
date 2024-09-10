@@ -1,5 +1,15 @@
 # Scientific Publications
 
+## 2024
+
+_(under review)_ Pederzani G., Grytsan A., Hoekstra A.G., Robertson A.M., Watton, P.N., **Modelling Growth, Remodeling and Damage of a Thick-Walled Fibre-Reinforced Artery with Active Response: Application to Cerebral Vasospasm and Treatment**, _Computer Methods and Programs in Biomedicine_, [https://arxiv.org/abs/2408.17206](https://arxiv.org/abs/2408.17206)
+
+_(under review)_ Laviola M., Pederzani G., Tsaneva K., **Decoding Uncertainty for Clinical Decision Making**, _Philosophical Transactions of the Royal Society A_
+
+
+## 2023
+
+EDITH Consortium, **EDITH Roadmap: Building the European Virtual Human Twin**, [https://zenodo.org/records/8200955](https://zenodo.org/records/8200955) 
 
 ## 2022
 
