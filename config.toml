@@ -26,3 +26,9 @@ profilePicture = "profile_pic.jpg"
     identifier = "publications"
     weight = 200
     url = "/publications"
+
+    [[menu.main]]
+    name = "Projects"
+    identifier = "projects"
+    weight = 300
+    url = "/projects"
